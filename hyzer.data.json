@@ -361,18 +361,18 @@
             "registrationId": 1747970828,
             "currentRatchet": {
               "ephemeralKeyPair": {
-                "pubKey": "BQr1wuljGlM9yZIIw/wedzGIe3lC3bwkfjIfkRkOfIA5",
-                "privKey": "SNgzK+vQhaOH8LHxPbuiGtq81IpSP/04bRTCpAx9K08="
+                "pubKey": "BcQ1ekM8nCe5mTqkIzK4oB3VPpogS4BLFWxHALL/SAFG",
+                "privKey": "AHn1PEjkgrRJIt7K5aTrpoPSfNb5vKHKQpL44xdseEQ="
               },
-              "lastRemoteEphemeralKey": "BVDrAIPq8BCt28zxx22TVHh2oWQOAJOmncecUU0SHpV1",
+              "lastRemoteEphemeralKey": "BYLGMJWVaB/NdABswaRGevkd0KNrxK/IfGCM9w4acqBx",
               "previousCounter": 3,
-              "rootKey": "ar7hN+hW1k0GGBKEmfDbZhoPMiBs63fHfy3PHOmIWuM="
+              "rootKey": "NgWAfgNpv/EX9M6I6Bx+XWrj++Ayx6kjJj95mV7ntLQ="
             },
             "indexInfo": {
               "baseKey": "Bbxe9Tk/7dxGJn0a7KTjeALdj9l5tBU2UIxv3iB32k5e",
               "baseKeyType": 2,
               "closed": -1,
-              "used": 1658127917934,
+              "used": 1658127924501,
               "created": 1658127896996,
               "remoteIdentityKey": "BX7YsrRhruHURX84aSqcOETpJfXk6zU+gS1MEyVaWv5z"
             },
@@ -393,16 +393,23 @@
               },
               "BVDrAIPq8BCt28zxx22TVHh2oWQOAJOmncecUU0SHpV1": {
                 "chainKey": {
-                  "counter": 0,
-                  "key": "WkYVU6Mh3Wef0r/J51SYYGjA0fS0RmOHgvgPVC5uetg="
+                  "counter": 1
                 },
                 "chainType": 2,
                 "messageKeys": {}
               },
-              "BQr1wuljGlM9yZIIw/wedzGIe3lC3bwkfjIfkRkOfIA5": {
+              "BYLGMJWVaB/NdABswaRGevkd0KNrxK/IfGCM9w4acqBx": {
+                "chainKey": {
+                  "counter": 0,
+                  "key": "qNQIhoa27tSNvnInSvNlRAHkRH1zJXotubO1OQsDvEE="
+                },
+                "chainType": 2,
+                "messageKeys": {}
+              },
+              "BcQ1ekM8nCe5mTqkIzK4oB3VPpogS4BLFWxHALL/SAFG": {
                 "chainKey": {
                   "counter": -1,
-                  "key": "WSoMlFnLqeXtwi/gTaYeFBBkjS3uK3TtmuvehTVTfzY="
+                  "key": "GiKknhCU5jLjVVcnl1V4u5NN8VzunAcufjYpdzSlXPQ="
                 },
                 "chainType": 1,
                 "messageKeys": {}
@@ -513,8 +520,8 @@
             "_chains": {
               "BdaiE5MajbBKM7m2b/Sg/5t0pIukJ2MuOJnsW3TQm4Rg": {
                 "chainKey": {
-                  "counter": 5,
-                  "key": "Cl69CGTprnD5JDuh94MwuEl7/nZfi5VfQ+Uyp8MVyUU="
+                  "counter": 9,
+                  "key": "As0eMhDkL/B//Log6yx9EqQmgehV3WmboQWnMtS2ztg="
                 },
                 "chainType": 1,
                 "messageKeys": {}
